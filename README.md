@@ -6,9 +6,10 @@ This has been adopted from TryHackMe advent of cyber Day 15 Machine learning Jin
 https://tryhackme.com/room/adventofcyber2023
 The author does not have copyrights over the content.
 
-**Documents
-**emails_dataset.csv
-**SPAM Detector.ipynb
+Documents
+1) emails_dataset.csv
+2) SPAM Detector.ipynb
+3) Spam Detector.json
 
 This is it from the task. From the practical point of view, we have to consider the following points to ensure the effectiveness and reliability of the model:
 Continuously monitor the model's performance on a test dataset or in a real-world environment.
